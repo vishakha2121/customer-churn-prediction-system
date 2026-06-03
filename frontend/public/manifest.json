@@ -1,0 +1,9 @@
+{
+  "name": "Churn Prediction System",
+  "short_name": "Churn Predictor",
+  "description": "AI-powered customer churn prediction and retention optimization",
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#6366f1",
+  "background_color": "#ffffff"
+}
